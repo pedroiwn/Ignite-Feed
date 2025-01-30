@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "extends": "./tsconfig.base.json",
+    "incremental": true,  // Ativado para permitir tsBuildInfoFile
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
     "target": "ES2020",
     "useDefineForClassFields": true,
@@ -19,8 +21,8 @@
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true
+    "noFallthroughCasesInSwitch": true
+    // Remover 'noUncheckedSideEffectImports' se não estiver usando TS 5.2+
   },
   "include": ["src", "src/App.tsx"]
 }

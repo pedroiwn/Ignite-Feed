@@ -20,4 +20,8 @@ O **Ignite Feed** é um projeto de feed de notícias desenvolvido como parte do 
 ## Tecnologias Utilizadas
 
 <div align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" /> <img src="https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Modules" /> <img src="https://img.shields.io/badge/date--fns-007ACC?style=for-the-badge&logo=javascript&logoColor=white" alt="date-fns" /> <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Icons" /> </div>
+
 <hr/>
+
+
+
